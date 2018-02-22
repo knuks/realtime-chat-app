@@ -1,5 +1,6 @@
 # realtime-chat-app
-this is real time chat app using larave, vuejs, and pusher
+this is real time chat app using laravel, vuejs, and pusher.
+This app is used chat with all logged in user not for private user to user.
 # Installation
 1. clone repo <code> $ git clone https://github.com/knuks/realtime-chat-app.git </code>
 2. copy .env from .env.example and configure with your database
