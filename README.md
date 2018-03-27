@@ -13,11 +13,12 @@ This app is used chat with all logged in user not for private user to user.
   ```
 3. paste pusher credentials in env and put pusher key to resource/assets/js/bootstrap.js
 4. <code> $ composer install </code>
-5. <code> $ npm install </code>
-6. <code> $ npm run dev </code>
-7. <code> $ php artisan migrate </code>
-8. <code> $ php artisan serve </code>
-9. Regiser user and login
+5. <code> $ php artisan key:generate </code>
+6. <code> $ npm install </code>
+7. <code> $ npm run dev </code>
+8. <code> $ php artisan migrate </code>
+9. <code> $ php artisan serve </code>
+10. Regiser user and login
 
 To chat with users register multiple users and try with different browser with different user login
 
